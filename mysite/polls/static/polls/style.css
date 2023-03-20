@@ -1,0 +1,14 @@
+li a {
+    color: green;
+}
+/* li a{
+    color: gold;
+} */
+
+li h1{
+    background-color: aqua;
+}
+
+body{
+    background: white url("images/background.png") no-repeat;
+}
